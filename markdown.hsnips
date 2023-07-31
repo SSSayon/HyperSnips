@@ -1,8 +1,4 @@
-# Rearranged by Sayon(github@SSSayon) from OrangeX4/OrangeX4-HyperSnips.
-# Added explanation in Chinese of the meaning & usage of each snippet,
-# corrected some mistakes that may cause undesired mix,
-# and removed (perhaps) unnecessary or infrequently-used snippets.
-# ! Changed several names for personal taste and this doc definitely violates with the original one. !
+# Rearranged from OrangeX4/OrangeX4-HyperSnips to meet personal taste.
 
 global
 // JavaScript code
